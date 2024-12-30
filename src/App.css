@@ -1,0 +1,54 @@
+.imge{
+    width: 123px;
+}
+.navmid{
+    display: flex;
+    justify-content: space-between;
+}
+.nave{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.button{
+    display: flex;
+    justify-items: center;
+    align-items: center;
+}
+h6{
+    margin-top: 5px !important;
+    margin-left: 12px;
+}
+.last{
+    display: flex;
+    justify-items: center;
+    justify-content: space-between;
+    width: 213px;
+    margin-right: 20px;
+}
+    @media only screen and (max-width: 1039px) {
+        .serch {
+        width: auto !important;
+        }}
+.like{
+    display: flex;
+    height: 42px;
+    width: 173px;
+}
+.like h1 {
+    font-size: 15px;
+
+}
+.like p{
+    font-size: 10px;
+}
+.dislike{
+    display: flex;
+    justify-content: space-around;
+
+}
+.vertical-line {
+      width: 1px; /* عرض الخط */
+      height: 25px; /* طول الخط */
+      background-color: rgb(161, 161, 161); /* لون الخط */
+      margin: 4px; /* مسافة حول الخط */}
